@@ -1,0 +1,1 @@
+CREATE SCHEMA IF NOT EXISTS `ls_test_db`;
