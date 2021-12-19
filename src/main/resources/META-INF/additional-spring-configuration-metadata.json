@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "kafka.bootstrap-address",
+      "type": "java.lang.String",
+      "description": "Description for kafka.bootstrap-address."
+    }
+  ]
+}
